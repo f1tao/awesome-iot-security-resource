@@ -1,4 +1,4 @@
-# Awesome iot exploit resource
+# Awesome iot security resource
 
 ## blog
 
