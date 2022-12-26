@@ -20,7 +20,7 @@
 
 * [draytek漏洞分析](https://www.freebuf.com/vuls/262765.html)
 * [DrayTek Vigor企业级路由器和交换机设备在野0-day 漏洞分析报告](https://blog.netlab.360.com/two-zero-days-are-targeting-draytek-broadband-cpe-devices/)
-* [DrayTek Vigor 2960 从未授权到rce](DrayTek Vigor 2960 从未授权到rce)
+* [DrayTek Vigor 2960 从未授权到rce](https://bestwing.me/drayteck-vigor-vulnerability-disclosure.html)
 * [CVE-2020-8515 漏洞分析与利用](https://www.hayasec.me/2020/03/31/cve-2020-8515/)
 * [Vigor2960漏洞复现（CVE-2020-14472）](https://nosec.org/home/detail/4631.html)
 
