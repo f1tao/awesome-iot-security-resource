@@ -2,9 +2,14 @@
 
 ## Tool
 
+### Firmware Emulation
+
+* [firmadyne](https://github.com/firmadyne/firmadyne)
+
 ### Firmware Extraction
 
 * [binwalk](https://github.com/ReFirmLabs/binwalk)
+* [firmware-mod-kit](https://github.com/rampageX/firmware-mod-kit)
 
 ### Firmware Analysis
 
