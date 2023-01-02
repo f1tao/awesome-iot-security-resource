@@ -1,5 +1,15 @@
 # Awesome iot security resource
 
+## Tool
+
+### Firmware Extraction
+
+* [binwalk](https://github.com/ReFirmLabs/binwalk)
+
+### Firmware Analysis
+
+* [firmwalker](https://github.com/craigz28/firmwalker)
+
 ## Vulnerability Writeup
 
 ### Netgear
