@@ -15,6 +15,11 @@
 
 * [firmwalker](https://github.com/craigz28/firmwalker)
 
+## Firmware Decryption
+
+* [MindShare: Dealing With Encrypted Router Firmware](https://www.zerodayinitiative.com/blog/2020/2/6/mindshare-dealing-with-encrypted-router-firmware)
+* [Zyxel firmware extraction and password analysis](https://security.humanativaspa.it/zyxel-firmware-extraction-and-password-analysis/)
+
 ## Vulnerability Writeup
 
 ### Netgear
