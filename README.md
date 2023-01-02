@@ -1,7 +1,13 @@
 # Awesome iot security resource
 
-
 ## Vulnerability Writeup
+
+### Netgear
+
+* [CVE-2021-33514：Netgear 多款交换机命令注入漏洞](https://paper.seebug.org/1645/)
+* [Feral Terror vulnerability (some NETGEAR smart switches UPDATED 3](https://gynvael.coldwind.pl/?id=733)
+* [Seventh Inferno vulnerability (some NETGEAR smart switches)](https://gynvael.coldwind.pl/?id=742)
+* [Draconian Fear vulnerability (some NETGEAR smart switches)](https://gynvael.coldwind.pl/?id=741)
 
 ### Zyxel
 
@@ -28,3 +34,4 @@
 
 * [ONE KEY](https://onekey.com/research/)
 * [HN Security](https://security.humanativaspa.it/category/news/)
+* [gynvael.coldwind//vx.log](https://gynvael.coldwind.pl/?blog=1)
