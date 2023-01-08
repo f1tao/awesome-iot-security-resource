@@ -50,6 +50,21 @@
 * [CVE-2020-8515 漏洞分析与利用](https://www.hayasec.me/2020/03/31/cve-2020-8515/)
 * [Vigor2960漏洞复现（CVE-2020-14472）](https://nosec.org/home/detail/4631.html)
 
+### TP-LINK
+
+* [When an N-Day turns into a 0day. (Part 1 of 2)](https://github.com/b1ack0wl/vulnerability-write-ups/blob/master/TP-Link/WR940N/112022/Part1.md)
+
+### DVR
+
+* [HiSilicon DVR hack](https://github.com/tothi/pwn-hisilicon-dvr/tree/42d8325e68fdb075fe27df8a269932f9fa9601a6)
+* [Exploiting: Buffer overflow in Xiongmai DVRs](https://blog.ret2.me/post/2022-01-26-exploiting-xiongmai-dvrs/)
+
+## Exploitation Method
+
+### Uninitialized Pointer  Vulnerability
+
+* [When an N-Day turns into a 0day. (Part 1 of 2)](https://github.com/b1ack0wl/vulnerability-write-ups/blob/master/TP-Link/WR940N/112022/Part1.md)
+
 ## Blog
 
 * [ONE KEY](https://onekey.com/research/)
