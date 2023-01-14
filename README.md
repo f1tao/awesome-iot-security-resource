@@ -65,6 +65,11 @@
 
 * [When an N-Day turns into a 0day. (Part 1 of 2)](https://github.com/b1ack0wl/vulnerability-write-ups/blob/master/TP-Link/WR940N/112022/Part1.md)
 
+## Protocol Specification
+
+* [FastCGI Developer's Kit](http://fastcgi-archives.github.io/fcgi2/doc/overview.html)
+* [The Common Gateway Interface (CGI) Version 1.1](https://www.rfc-editor.org/rfc/rfc3875)
+
 ## Blog
 
 * [ONE KEY](https://onekey.com/research/)
