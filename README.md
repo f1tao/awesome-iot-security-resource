@@ -20,6 +20,10 @@
 * [MindShare: Dealing With Encrypted Router Firmware](https://www.zerodayinitiative.com/blog/2020/2/6/mindshare-dealing-with-encrypted-router-firmware)
 * [Zyxel firmware extraction and password analysis](https://security.humanativaspa.it/zyxel-firmware-extraction-and-password-analysis/)
 
+## Hardware Crack
+
+* [Exception(al) Failure - Breaking the STM32F1 Read-Out Protection](https://blog.zapb.de/stm32f1-exceptional-failure/)
+
 ## Vulnerability Writeup
 
 ### Netgear
@@ -28,6 +32,8 @@
 * [Feral Terror vulnerability (some NETGEAR smart switches UPDATED 3](https://gynvael.coldwind.pl/?id=733)
 * [Seventh Inferno vulnerability (some NETGEAR smart switches)](https://gynvael.coldwind.pl/?id=742)
 * [Draconian Fear vulnerability (some NETGEAR smart switches)](https://gynvael.coldwind.pl/?id=741)
+* [COOL VULNS DON'T LIVE LONG - NETGEAR AND PWN2OWN](https://www.synacktiv.com/publications/cool-vulns-dont-live-long-netgear-and-pwn2own.html)
+* [Puckungfu: A NETGEAR WAN Command Injection](https://research.nccgroup.com/2022/12/22/puckungfu-a-netgear-wan-command-injection/)
 
 ### Zyxel
 
@@ -54,10 +60,13 @@
 
 * [When an N-Day turns into a 0day. (Part 1 of 2)](https://github.com/b1ack0wl/vulnerability-write-ups/blob/master/TP-Link/WR940N/112022/Part1.md)
 
-### DVR
+### CAMERA
 
 * [HiSilicon DVR hack](https://github.com/tothi/pwn-hisilicon-dvr/tree/42d8325e68fdb075fe27df8a269932f9fa9601a6)
 * [Exploiting: Buffer overflow in Xiongmai DVRs](https://blog.ret2.me/post/2022-01-26-exploiting-xiongmai-dvrs/)
+* [Hacking the Furbo Dog Camera: Part I](https://www.somersetrecon.com/blog/2021/hacking-the-furbo-part-1)
+* [Hacking the Furbo Dog Camera: Part II](https://www.somersetrecon.com/blog/2021/hacking-the-furbo-dog-camera-part-ii)
+* [Hacking the Furbo Dog Camera: Part III Fun with Firmware](https://www.somersetrecon.com/blog/2022/hacking-the-furbo-dog-camera-part-iii)
 
 ## Exploitation Method
 
