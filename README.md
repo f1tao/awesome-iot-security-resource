@@ -15,10 +15,15 @@
 
 * [firmwalker](https://github.com/craigz28/firmwalker)
 
+### Debug Tool
+
+* [gdb-static-cross](https://github.com/stayliv3/gdb-static-cross/tree/master/prebuilt)
+
 ## Firmware Decryption
 
 * [MindShare: Dealing With Encrypted Router Firmware](https://www.zerodayinitiative.com/blog/2020/2/6/mindshare-dealing-with-encrypted-router-firmware)
 * [Zyxel firmware extraction and password analysis](https://security.humanativaspa.it/zyxel-firmware-extraction-and-password-analysis/)
+* [Reverse Engineering Yaesu FT-70D Firmware Encryption](https://landaire.net/reversing-yaesu-firmware-encryption/)
 
 ## Hardware Crack
 
@@ -34,6 +39,8 @@
 * [Draconian Fear vulnerability (some NETGEAR smart switches)](https://gynvael.coldwind.pl/?id=741)
 * [COOL VULNS DON'T LIVE LONG - NETGEAR AND PWN2OWN](https://www.synacktiv.com/publications/cool-vulns-dont-live-long-netgear-and-pwn2own.html)
 * [Puckungfu: A NETGEAR WAN Command Injection](https://research.nccgroup.com/2022/12/22/puckungfu-a-netgear-wan-command-injection/)
+* [CVE-2022-27643 - NETGEAR R6700v3 upnpd Buffer Overflow Remote Code Execution Vulnerability](https://blog.relyze.com/2022/03/cve-2022-27643-netgear-r6700v3-upnpd.html)
+* [nday exploit: netgear orbi unauthenticated command injection (cve-2020-27861)](https://blog.coffinsec.com/research/2022/07/02/orbi-nday-exploit-cve-2020-27861.html)
 
 ### Zyxel
 
@@ -73,6 +80,14 @@
 ### Uninitialized Pointer  Vulnerability
 
 * [When an N-Day turns into a 0day. (Part 1 of 2)](https://github.com/b1ack0wl/vulnerability-write-ups/blob/master/TP-Link/WR940N/112022/Part1.md)
+
+### Heap Spray
+
+* [MeshyJSON: A TP-Link tdpServer JSON Stack Overflow](https://research.nccgroup.com/2022/12/19/meshyjson-a-tp-link-tdpserver-json-stack-overflow/)
+
+### BSS Overflow
+
+* [CVE-2022-27643 - NETGEAR R6700v3 upnpd Buffer Overflow Remote Code Execution Vulnerability](https://blog.relyze.com/2022/03/cve-2022-27643-netgear-r6700v3-upnpd.html)
 
 ## Protocol Specification
 
