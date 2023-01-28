@@ -10,10 +10,13 @@
 
 * [binwalk](https://github.com/ReFirmLabs/binwalk)
 * [firmware-mod-kit](https://github.com/rampageX/firmware-mod-kit)
+* [unblob](https://github.com/onekey-sec/unblob)
+* [ofrak](https://github.com/redballoonsecurity/ofrak)
 
 ### Firmware Analysis
 
 * [firmwalker](https://github.com/craigz28/firmwalker)
+* [emba](https://github.com/e-m-b-a/emba)
 
 ### Debug Tool
 
