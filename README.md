@@ -78,6 +78,10 @@
 * [Hacking the Furbo Dog Camera: Part II](https://www.somersetrecon.com/blog/2021/hacking-the-furbo-dog-camera-part-ii)
 * [Hacking the Furbo Dog Camera: Part III Fun with Firmware](https://www.somersetrecon.com/blog/2022/hacking-the-furbo-dog-camera-part-iii)
 
+## BootLoader
+
+* [Technical Advisory – U-Boot – Unchecked Download Size and Direction in USB DFU (CVE-2022-2347)](https://research.nccgroup.com/2023/01/20/technical-advisory-u-boot-unchecked-download-size-and-direction-in-usb-dfu-cve-2022-2347/)
+
 ## Exploitation Method
 
 ### Uninitialized Pointer  Vulnerability
@@ -102,3 +106,4 @@
 * [ONE KEY](https://onekey.com/research/)
 * [HN Security](https://security.humanativaspa.it/category/news/)
 * [gynvael.coldwind//vx.log](https://gynvael.coldwind.pl/?blog=1)
+* [nccgroup](https://research.nccgroup.com/)
