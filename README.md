@@ -28,11 +28,12 @@
 
 * [IoT漏洞研究（一）固件基础](https://www.freebuf.com/articles/endpoint/254257.html)
 
-### Firmware Decryption
+### Firmware Extraction
 
 * [MindShare: Dealing With Encrypted Router Firmware](https://www.zerodayinitiative.com/blog/2020/2/6/mindshare-dealing-with-encrypted-router-firmware)
 * [Zyxel firmware extraction and password analysis](https://security.humanativaspa.it/zyxel-firmware-extraction-and-password-analysis/)
 * [Reverse Engineering Yaesu FT-70D Firmware Encryption](https://landaire.net/reversing-yaesu-firmware-encryption/)
+* [Bypassing software update package encryption – extracting the Lexmark MC3224i printer firmware (part 1)](https://research.nccgroup.com/2022/02/17/bypassing-software-update-package-encryption-extracting-the-lexmark-mc3224i-printer-firmware-part-1/)
 
 ## Hardware Crack
 
@@ -91,6 +92,11 @@
 ### BootLoader
 
 * [Technical Advisory – U-Boot – Unchecked Download Size and Direction in USB DFU (CVE-2022-2347)](https://research.nccgroup.com/2023/01/20/technical-advisory-u-boot-unchecked-download-size-and-direction-in-usb-dfu-cve-2022-2347/)
+
+### Printer
+
+* [Bypassing software update package encryption – extracting the Lexmark MC3224i printer firmware (part 1)](https://research.nccgroup.com/2022/02/17/bypassing-software-update-package-encryption-extracting-the-lexmark-mc3224i-printer-firmware-part-1/)
+* [Analyzing a PJL directory traversal vulnerability – exploiting the Lexmark MC3224i printer (part 2)](https://research.nccgroup.com/2022/02/18/analyzing-a-pjl-directory-traversal-vulnerability-exploiting-the-lexmark-mc3224i-printer-part-2/)
 
 ## Exploitation Method
 
