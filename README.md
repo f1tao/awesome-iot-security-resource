@@ -1,44 +1,5 @@
 # Awesome iot security resource
 
-## Tool
-
-### Firmware Emulation
-
-* [firmadyne](https://github.com/firmadyne/firmadyne)
-
-### Firmware Extraction
-
-* [binwalk](https://github.com/ReFirmLabs/binwalk)
-* [firmware-mod-kit](https://github.com/rampageX/firmware-mod-kit)
-* [unblob](https://github.com/onekey-sec/unblob)
-* [ofrak](https://github.com/redballoonsecurity/ofrak)
-
-### Firmware Analysis
-
-* [firmwalker](https://github.com/craigz28/firmwalker)
-* [emba](https://github.com/e-m-b-a/emba)
-
-### Debug Tool
-
-* [gdb-static-cross](https://github.com/stayliv3/gdb-static-cross/tree/master/prebuilt)
-
-## Firmware
-
-### Firmware Analysis
-
-* [IoT漏洞研究（一）固件基础](https://www.freebuf.com/articles/endpoint/254257.html)
-
-### Firmware Extraction
-
-* [MindShare: Dealing With Encrypted Router Firmware](https://www.zerodayinitiative.com/blog/2020/2/6/mindshare-dealing-with-encrypted-router-firmware)
-* [Zyxel firmware extraction and password analysis](https://security.humanativaspa.it/zyxel-firmware-extraction-and-password-analysis/)
-* [Reverse Engineering Yaesu FT-70D Firmware Encryption](https://landaire.net/reversing-yaesu-firmware-encryption/)
-* [Bypassing software update package encryption – extracting the Lexmark MC3224i printer firmware (part 1)](https://research.nccgroup.com/2022/02/17/bypassing-software-update-package-encryption-extracting-the-lexmark-mc3224i-printer-firmware-part-1/)
-
-## Hardware Crack
-
-* [Exception(al) Failure - Breaking the STM32F1 Read-Out Protection](https://blog.zapb.de/stm32f1-exceptional-failure/)
-
 ## Vulnerability Writeup
 
 ### Netgear
@@ -98,6 +59,12 @@
 * [Bypassing software update package encryption – extracting the Lexmark MC3224i printer firmware (part 1)](https://research.nccgroup.com/2022/02/17/bypassing-software-update-package-encryption-extracting-the-lexmark-mc3224i-printer-firmware-part-1/)
 * [Analyzing a PJL directory traversal vulnerability – exploiting the Lexmark MC3224i printer (part 2)](https://research.nccgroup.com/2022/02/18/analyzing-a-pjl-directory-traversal-vulnerability-exploiting-the-lexmark-mc3224i-printer-part-2/)
 
+### Car
+
+* [How I Hacked my Car](https://programmingwithstyle.com/posts/howihackedmycar/)
+* [How I Hacked my Car Part 2: Making a Backdoor](https://programmingwithstyle.com/posts/howihackedmycarpart2/)
+* [How I Hacked my Car Part 3: Making Software](https://programmingwithstyle.com/posts/howihackedmycarpart3/)
+
 ## Exploitation Method
 
 ### Uninitialized Pointer  Vulnerability
@@ -112,10 +79,53 @@
 
 * [CVE-2022-27643 - NETGEAR R6700v3 upnpd Buffer Overflow Remote Code Execution Vulnerability](https://blog.relyze.com/2022/03/cve-2022-27643-netgear-r6700v3-upnpd.html)
 
+## Hardware Crack
+
+* [Exception(al) Failure - Breaking the STM32F1 Read-Out Protection](https://blog.zapb.de/stm32f1-exceptional-failure/)
+
+## Firmware
+
+### Firmware Analysis
+
+* [IoT漏洞研究（一）固件基础](https://www.freebuf.com/articles/endpoint/254257.html)
+
+### Firmware Extraction
+
+* [MindShare: Dealing With Encrypted Router Firmware](https://www.zerodayinitiative.com/blog/2020/2/6/mindshare-dealing-with-encrypted-router-firmware)
+* [Zyxel firmware extraction and password analysis](https://security.humanativaspa.it/zyxel-firmware-extraction-and-password-analysis/)
+* [Reverse Engineering Yaesu FT-70D Firmware Encryption](https://landaire.net/reversing-yaesu-firmware-encryption/)
+* [Bypassing software update package encryption – extracting the Lexmark MC3224i printer firmware (part 1)](https://research.nccgroup.com/2022/02/17/bypassing-software-update-package-encryption-extracting-the-lexmark-mc3224i-printer-firmware-part-1/)
+
 ## Protocol Specification
 
 * [FastCGI Developer's Kit](http://fastcgi-archives.github.io/fcgi2/doc/overview.html)
 * [The Common Gateway Interface (CGI) Version 1.1](https://www.rfc-editor.org/rfc/rfc3875)
+
+## Tool
+
+### Firmware Emulation
+
+* [firmadyne](https://github.com/firmadyne/firmadyne)
+
+### Firmware Extraction
+
+* [binwalk](https://github.com/ReFirmLabs/binwalk)
+* [firmware-mod-kit](https://github.com/rampageX/firmware-mod-kit)
+* [unblob](https://github.com/onekey-sec/unblob)
+* [ofrak](https://github.com/redballoonsecurity/ofrak)
+
+### Firmware Analysis
+
+* [firmwalker](https://github.com/craigz28/firmwalker)
+* [emba](https://github.com/e-m-b-a/emba)
+
+### Debug Tool
+
+* [gdb-static-cross](https://github.com/stayliv3/gdb-static-cross/tree/master/prebuilt)
+
+### Other
+
+* [bkcrack](https://github.com/kimci86/bkcrack)
 
 ## Blog
 
