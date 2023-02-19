@@ -12,6 +12,7 @@
 * [Puckungfu: A NETGEAR WAN Command Injection](https://research.nccgroup.com/2022/12/22/puckungfu-a-netgear-wan-command-injection/)
 * [CVE-2022-27643 - NETGEAR R6700v3 upnpd Buffer Overflow Remote Code Execution Vulnerability](https://blog.relyze.com/2022/03/cve-2022-27643-netgear-r6700v3-upnpd.html)
 * [nday exploit: netgear orbi unauthenticated command injection (cve-2020-27861)](https://blog.coffinsec.com/research/2022/07/02/orbi-nday-exploit-cve-2020-27861.html)
+* [NETGEAR NIGHTHAWK R7000P UPNPD BUFFER OVERFLOW REMOTE CODE EXECUTION VULNERABILITY](https://hdwsec.fr/blog/20230201-netgear/)
 
 ### Zyxel
 
@@ -64,6 +65,7 @@
 * [How I Hacked my Car](https://programmingwithstyle.com/posts/howihackedmycar/)
 * [How I Hacked my Car Part 2: Making a Backdoor](https://programmingwithstyle.com/posts/howihackedmycarpart2/)
 * [How I Hacked my Car Part 3: Making Software](https://programmingwithstyle.com/posts/howihackedmycarpart3/)
+* [NFC RELAY ATTACK ON TESLA MODEL Y](https://act-on.ioactive.com/acton/attachment/34793/f-6460b49e-1afe-41c3-8f73-17dc14916847/1/-/-/-/-/NFC-relay-TESlA_JRoriguez.pdf)
 
 ## Exploitation Method
 
@@ -82,6 +84,7 @@
 ## Hardware Crack
 
 * [Exception(al) Failure - Breaking the STM32F1 Read-Out Protection](https://blog.zapb.de/stm32f1-exceptional-failure/)
+* [Pwn the ESP32 crypto-core](https://limitedresults.com/2019/08/pwn-the-esp32-crypto-core/)
 
 ## Firmware
 
@@ -133,3 +136,4 @@
 * [HN Security](https://security.humanativaspa.it/category/news/)
 * [gynvael.coldwind//vx.log](https://gynvael.coldwind.pl/?blog=1)
 * [nccgroup](https://research.nccgroup.com/)
+* [HDW Sec](https://hdwsec.fr/#blog)
