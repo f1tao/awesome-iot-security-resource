@@ -51,6 +51,7 @@
 ### D-Link
 
 * [THE ANATOMY OF A BUG DOOR: DISSECTING TWO D-LINK ROUTER AUTHENTICATION BYPASSES](https://www.zerodayinitiative.com/blog/2020/9/30/the-anatomy-of-a-bug-door-dissecting-two-d-link-router-authentication-bypasses)
+* [D-Link DIR-816 A2路由器安全研究分享](https://paper.seebug.org/1036/)
 
 ### CAMERA
 
