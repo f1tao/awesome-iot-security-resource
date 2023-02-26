@@ -2,6 +2,11 @@
 
 ## Vulnerability Writeup
 
+### F5 BIG-IP
+
+* [CVE-2022-41622 and CVE-2022-41800 (FIXED): F5 BIG-IP and iControl REST Vulnerabilities and Exposures](https://www.rapid7.com/blog/post/2022/11/16/cve-2022-41622-and-cve-2022-41800-fixed-f5-big-ip-and-icontrol-rest-vulnerabilities-and-exposures/)
+* [CVE-2023-22374: F5 BIG-IP Format String Vulnerability](https://www.rapid7.com/blog/post/2023/02/01/cve-2023-22374-f5-big-ip-format-string-vulnerability/)
+
 ### Netgear
 
 * [CVE-2021-33514：Netgear 多款交换机命令注入漏洞](https://paper.seebug.org/1645/)
@@ -38,6 +43,10 @@
 ### TP-LINK
 
 * [When an N-Day turns into a 0day. (Part 1 of 2)](https://github.com/b1ack0wl/vulnerability-write-ups/blob/master/TP-Link/WR940N/112022/Part1.md)
+* [Remote code execution as root from the local network on TP-Link SR20 routers](https://mjg59.dreamwidth.org/51672.html)
+* [TP-Link AC1750 (Pwn2Own 2019)](https://labs.withsecure.com/advisories/tp-link-ac1750-pwn2own-2019)
+* [EXPLOITING THE TP-LINK ARCHER A7 AT PWN2OWN TOKYO](https://www.zerodayinitiative.com/blog/2020/4/6/exploiting-the-tp-link-archer-c7-at-pwn2own-tokyo)
+* [PWN2OWN TOKYO 2020: DEFEATING THE TP-LINK AC1750](https://www.synacktiv.com/en/publications/pwn2own-tokyo-2020-defeating-the-tp-link-ac1750.html)
 
 ### D-Link
 
@@ -85,6 +94,13 @@
 
 * [Exception(al) Failure - Breaking the STM32F1 Read-Out Protection](https://blog.zapb.de/stm32f1-exceptional-failure/)
 * [Pwn the ESP32 crypto-core](https://limitedresults.com/2019/08/pwn-the-esp32-crypto-core/)
+
+### Fault Injection
+
+* [Bypassing Secure Boot using Fault Injection](https://raelize.com/upload/research/2016/2016_BlackHat-EU_Bypassing-Secure-Boot-Using-Fault-Injection_NT-AS.pdf)
+* [KERNELFAULT: R00ting the Unexploitable using Hardware Fault Injection](https://raelize.com/upload/research/2017/2017_BlueHat-v17_KERNELFAULT-R00ting-the-Unexploitable-using-Hardware-Fault-Injection_CM_NT.pdf)
+* [KERNELFAULT: Pwning Linux using Hardware Fault Injection](https://raelize.com/upload/research/2017/2017_Hardwear-io_Escalating-Privileges-in-Linux-using-Fault-Injection_NT-CM.pdf)
+* [HARDENING SECURE BOOT ON EMBEDDED DEVICES FOR HOSTILE ENVIRONMENTS](https://raelize.com/upload/research/2019/2019_BlueHat-IL_Hardening-Secure-Boot-on-Embedded-Devices-for-Hostile-Environments_NT-AS-CM.pdf)
 
 ## Firmware
 
