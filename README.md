@@ -14,11 +14,13 @@
 * [Seventh Inferno vulnerability (some NETGEAR smart switches)](https://gynvael.coldwind.pl/?id=742)
 * [Draconian Fear vulnerability (some NETGEAR smart switches)](https://gynvael.coldwind.pl/?id=741)
 * [COOL VULNS DON'T LIVE LONG - NETGEAR AND PWN2OWN](https://www.synacktiv.com/publications/cool-vulns-dont-live-long-netgear-and-pwn2own.html)
+* [PwnAgent: A One-Click WAN-side RCE in Netgear RAX Routers with CVE-2023-24749](https://mahaloz.re/2023/02/25/pwnagent-netgear.html)
 * [Puckungfu: A NETGEAR WAN Command Injection](https://research.nccgroup.com/2022/12/22/puckungfu-a-netgear-wan-command-injection/)
 * [CVE-2022-27643 - NETGEAR R6700v3 upnpd Buffer Overflow Remote Code Execution Vulnerability](https://blog.relyze.com/2022/03/cve-2022-27643-netgear-r6700v3-upnpd.html)
 * [nday exploit: netgear orbi unauthenticated command injection (cve-2020-27861)](https://blog.coffinsec.com/research/2022/07/02/orbi-nday-exploit-cve-2020-27861.html)
 * [NETGEAR NIGHTHAWK R7000P UPNPD BUFFER OVERFLOW REMOTE CODE EXECUTION VULNERABILITY](https://hdwsec.fr/blog/20230201-netgear/)
 * [Reverse Engineering a Netgear Nday](https://starkeblog.com/netgear/nday/2022/03/13/reverse-engineering-a-netgear-nday.html)
+* [Analyzing an Old Netatalk dsi_writeinit Buffer Overflow Vulnerability in NETGEAR Router](https://medium.com/@cq674350529/analyzing-an-old-netatalk-dsi-writeinit-buffer-overflow-vulnerability-in-netgear-router-4e9d59064584)
 
 ### Zyxel
 
@@ -92,6 +94,10 @@
 ### BSS Overflow
 
 * [CVE-2022-27643 - NETGEAR R6700v3 upnpd Buffer Overflow Remote Code Execution Vulnerability](https://blog.relyze.com/2022/03/cve-2022-27643-netgear-r6700v3-upnpd.html)
+
+### Heap Overflow
+
+* [Analyzing an Old Netatalk dsi_writeinit Buffer Overflow Vulnerability in NETGEAR Router](https://medium.com/@cq674350529/analyzing-an-old-netatalk-dsi-writeinit-buffer-overflow-vulnerability-in-netgear-router-4e9d59064584)
 
 ## Hardware Crack
 
