@@ -18,6 +18,7 @@
 * [CVE-2022-27643 - NETGEAR R6700v3 upnpd Buffer Overflow Remote Code Execution Vulnerability](https://blog.relyze.com/2022/03/cve-2022-27643-netgear-r6700v3-upnpd.html)
 * [nday exploit: netgear orbi unauthenticated command injection (cve-2020-27861)](https://blog.coffinsec.com/research/2022/07/02/orbi-nday-exploit-cve-2020-27861.html)
 * [NETGEAR NIGHTHAWK R7000P UPNPD BUFFER OVERFLOW REMOTE CODE EXECUTION VULNERABILITY](https://hdwsec.fr/blog/20230201-netgear/)
+* [Reverse Engineering a Netgear Nday](https://starkeblog.com/netgear/nday/2022/03/13/reverse-engineering-a-netgear-nday.html)
 
 ### Zyxel
 
@@ -52,6 +53,7 @@
 
 * [THE ANATOMY OF A BUG DOOR: DISSECTING TWO D-LINK ROUTER AUTHENTICATION BYPASSES](https://www.zerodayinitiative.com/blog/2020/9/30/the-anatomy-of-a-bug-door-dissecting-two-d-link-router-authentication-bypasses)
 * [D-Link DIR-816 A2路由器安全研究分享](https://paper.seebug.org/1036/)
+* [Reverse Engineering a D-Link Backdoor](https://lcx.cc/post/3950/)
 
 ### CAMERA
 
