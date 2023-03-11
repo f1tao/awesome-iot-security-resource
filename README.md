@@ -1,5 +1,9 @@
 # Awesome iot security resource
 
+## Fundamental
+
+* [WHAT HAPPENS WHEN YOUR ROUTER IS HACKED?](https://nordsecurity.com/blog/what-happens-when-router-is-hacked)
+
 ## Vulnerability Writeup
 
 ### F5 BIG-IP
@@ -21,6 +25,7 @@
 * [NETGEAR NIGHTHAWK R7000P UPNPD BUFFER OVERFLOW REMOTE CODE EXECUTION VULNERABILITY](https://hdwsec.fr/blog/20230201-netgear/)
 * [Reverse Engineering a Netgear Nday](https://starkeblog.com/netgear/nday/2022/03/13/reverse-engineering-a-netgear-nday.html)
 * [Analyzing an Old Netatalk dsi_writeinit Buffer Overflow Vulnerability in NETGEAR Router](https://medium.com/@cq674350529/analyzing-an-old-netatalk-dsi-writeinit-buffer-overflow-vulnerability-in-netgear-router-4e9d59064584)
+* [NETGEAR NIGHTHAWK R7000P AWS_JSON UNAUTHENTICATED DOUBLE STACK OVERFLOW VULNERABILITY](https://hdwsec.fr/blog/20221109-netgear/)
 
 ### Zyxel
 
