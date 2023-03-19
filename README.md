@@ -11,6 +11,12 @@
 * [CVE-2022-41622 and CVE-2022-41800 (FIXED): F5 BIG-IP and iControl REST Vulnerabilities and Exposures](https://www.rapid7.com/blog/post/2022/11/16/cve-2022-41622-and-cve-2022-41800-fixed-f5-big-ip-and-icontrol-rest-vulnerabilities-and-exposures/)
 * [CVE-2023-22374: F5 BIG-IP Format String Vulnerability](https://www.rapid7.com/blog/post/2023/02/01/cve-2023-22374-f5-big-ip-format-string-vulnerability/)
 
+### Fortigate
+
+* [Attacking SSL VPN - Part 2: Breaking the Fortigate SSL VPN](https://blog.orange.tw/2019/08/attacking-ssl-vpn-part-2-breaking-the-fortigate-ssl-vpn.html)
+* [Producing a POC for CVE-2022-42475 (Fortinet RCE)](https://blog.scrt.ch/2023/03/14/producing-a-poc-for-cve-2022-42475-fortinet-rce/)
+* [CVE-2022-42475](https://wzt.ac.cn/2022/12/15/CVE-2022-42475/)
+
 ### Netgear
 
 * [CVE-2021-33514：Netgear 多款交换机命令注入漏洞](https://paper.seebug.org/1645/)
