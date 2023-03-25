@@ -65,6 +65,7 @@
 ### D-Link
 
 * [THE ANATOMY OF A BUG DOOR: DISSECTING TWO D-LINK ROUTER AUTHENTICATION BYPASSES](https://www.zerodayinitiative.com/blog/2020/9/30/the-anatomy-of-a-bug-door-dissecting-two-d-link-router-authentication-bypasses)
+* [Debugging D-Link: Emulating firmware and hacking hardware](https://www.greynoise.io/blog/debugging-d-link-emulating-firmware-and-hacking-hardware)
 * [D-Link DIR-816 A2路由器安全研究分享](https://paper.seebug.org/1036/)
 * [Reverse Engineering a D-Link Backdoor](https://lcx.cc/post/3950/)
 
@@ -114,6 +115,7 @@
 
 * [Exception(al) Failure - Breaking the STM32F1 Read-Out Protection](https://blog.zapb.de/stm32f1-exceptional-failure/)
 * [Pwn the ESP32 crypto-core](https://limitedresults.com/2019/08/pwn-the-esp32-crypto-core/)
+* [HARDWARE HACKING 101: IDENTIFYING AND DUMPING EMMC FLASH](https://www.riverloopsecurity.com/blog/2020/03/hw-101-emmc/)
 
 ### Fault Injection
 
@@ -173,3 +175,4 @@
 * [gynvael.coldwind//vx.log](https://gynvael.coldwind.pl/?blog=1)
 * [nccgroup](https://research.nccgroup.com/)
 * [HDW Sec](https://hdwsec.fr/#blog)
+* [River Loop Security](https://www.riverloopsecurity.com/blog/)
