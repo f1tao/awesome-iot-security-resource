@@ -116,6 +116,8 @@
 * [Exception(al) Failure - Breaking the STM32F1 Read-Out Protection](https://blog.zapb.de/stm32f1-exceptional-failure/)
 * [Pwn the ESP32 crypto-core](https://limitedresults.com/2019/08/pwn-the-esp32-crypto-core/)
 * [HARDWARE HACKING 101: IDENTIFYING AND DUMPING EMMC FLASH](https://www.riverloopsecurity.com/blog/2020/03/hw-101-emmc/)
+* [Extract Firmware from OT Devices for Vulnerability Research](https://www.nozominetworks.com/blog/extract-firmware-from-ot-devices-for-vulnerability-research/)
+* [Methods for Extracting Firmware from OT Devices for Vulnerability Research](https://www.nozominetworks.com/blog/methods-for-extracting-firmware-from-ot-devices-for-vulnerability-research/)
 
 ### Fault Injection
 
