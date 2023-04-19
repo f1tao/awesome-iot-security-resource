@@ -17,6 +17,14 @@
 * [Producing a POC for CVE-2022-42475 (Fortinet RCE)](https://blog.scrt.ch/2023/03/14/producing-a-poc-for-cve-2022-42475-fortinet-rce/)
 * [CVE-2022-42475](https://wzt.ac.cn/2022/12/15/CVE-2022-42475/)
 
+### Pulse Secure
+
+* [Attacking SSL VPN - Part 3: The Golden Pulse Secure SSL VPN RCE Chain, with Twitter as Case Study!](https://blog.orange.tw/2019/09/attacking-ssl-vpn-part-3-golden-pulse-secure-rce-chain.html)
+
+### Palo Alto
+
+* [Attacking SSL VPN - Part 1: PreAuth RCE on Palo Alto GlobalProtect, with Uber as Case Study!](https://blog.orange.tw/2019/07/attacking-ssl-vpn-part-1-preauth-rce-on-palo-alto.html)
+
 ### Netgear
 
 * [CVE-2021-33514：Netgear 多款交换机命令注入漏洞](https://paper.seebug.org/1645/)
