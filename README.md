@@ -3,6 +3,7 @@
 ## Fundamental
 
 * [WHAT HAPPENS WHEN YOUR ROUTER IS HACKED?](https://nordsecurity.com/blog/what-happens-when-router-is-hacked)
+* [IoT Reverse Engineering](https://mp.weixin.qq.com/s/_pzsmZZz9cTcOxIl0cDgGQ)
 
 ## Vulnerability Writeup
 
@@ -76,6 +77,17 @@
 * [Debugging D-Link: Emulating firmware and hacking hardware](https://www.greynoise.io/blog/debugging-d-link-emulating-firmware-and-hacking-hardware)
 * [D-Link DIR-816 A2路由器安全研究分享](https://paper.seebug.org/1036/)
 * [Reverse Engineering a D-Link Backdoor](https://lcx.cc/post/3950/)
+
+### XiaoMI
+
+* [实战逻辑漏洞：三个漏洞搞定一台路由器](https://zhuanlan.zhihu.com/p/245070099)
+* [【长亭HITCON演讲视频】如何从零开始攻破一台明星IoT设备](https://www.bilibili.com/video/BV1gf4y1D7L2)
+* [小米R3A和R4系列路由器远程命令执行漏洞（CVE-2019-18370，CVE-2019-18371）](https://github.com/UltramanGaia/Xiaomi_Mi_WiFi_R3G_Vulnerability_POC/blob/master/report/report.md)
+* [关于我们在强网杯上小米路由器非预期解这件小事](https://www.anquanke.com/post/id/247597)
+* [强网杯 2021 线下 RW Mi Router](https://xuanxuanblingbling.github.io/iot/2021/07/15/mirouter/)
+* [Xiaomi AI Speaker Authenticated RCE I: Firmware Analysis](https://blog.csftech.net/xiaomi-ai-speaker-authenticated-rce-i-firmware-analysis/)
+* [Xiaomi AI Speaker Authenticated RCE II: How Does MICO OTA Update Work?](https://blog.csftech.net/xiaomi-ai-speaker-authenticated-rce-ii-how-does-mico-ota-update-work/)
+* [Xiaomi AI Speaker Authenticated RCE III: CVE-2020-14096](https://blog.csftech.net/xiaomi-ai-speaker-authenticated-rce-iii-cve-2020-14096/)
 
 ### CAMERA
 
