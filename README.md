@@ -82,12 +82,20 @@
 
 * [实战逻辑漏洞：三个漏洞搞定一台路由器](https://zhuanlan.zhihu.com/p/245070099)
 * [【长亭HITCON演讲视频】如何从零开始攻破一台明星IoT设备](https://www.bilibili.com/video/BV1gf4y1D7L2)
+* [Exploit (Almost) All Xiaomi Routers Using Logical Bugs](https://hitcon.org/2020/slides/Exploit%20(Almost)%20All%20Xiaomi%20Routers%20Using%20Logical%20Bugs.pdf)
 * [小米R3A和R4系列路由器远程命令执行漏洞（CVE-2019-18370，CVE-2019-18371）](https://github.com/UltramanGaia/Xiaomi_Mi_WiFi_R3G_Vulnerability_POC/blob/master/report/report.md)
 * [关于我们在强网杯上小米路由器非预期解这件小事](https://www.anquanke.com/post/id/247597)
 * [强网杯 2021 线下 RW Mi Router](https://xuanxuanblingbling.github.io/iot/2021/07/15/mirouter/)
 * [Xiaomi AI Speaker Authenticated RCE I: Firmware Analysis](https://blog.csftech.net/xiaomi-ai-speaker-authenticated-rce-i-firmware-analysis/)
 * [Xiaomi AI Speaker Authenticated RCE II: How Does MICO OTA Update Work?](https://blog.csftech.net/xiaomi-ai-speaker-authenticated-rce-ii-how-does-mico-ota-update-work/)
 * [Xiaomi AI Speaker Authenticated RCE III: CVE-2020-14096](https://blog.csftech.net/xiaomi-ai-speaker-authenticated-rce-iii-cve-2020-14096/)
+* [DEFCON 26-Having fun with IoT: Reverse Engineering and Hacking of Xiaomi IoT Devices](https://media.defcon.org/DEF%20CON%2026/DEF%20CON%2026%20presentations/DEFCON-26-Dennis-Giese-Having-Fun-With-IOT-Updated.pdf)
+* [I hacked MiBand 3, and here is how I did it. Part I](https://medium.com/@yogeshojha/i-hacked-xiaomi-miband-3-and-here-is-how-i-did-it-43d68c272391)
+* [I hacked MiBand 3, and here is how I did it Part II — Reverse Engineering to upload Firmware and Resources Over the Air](https://medium.com/@yogeshojha/i-hacked-miband-3-and-here-is-how-i-did-it-part-ii-reverse-engineering-to-upload-firmware-and-b28a05dfc308)
+* [Hack Routers, Get Toys: Exploiting the Mi Router 3](https://blog.securityevaluators.com/hack-routers-get-toys-exploiting-the-mi-router-3-1d7fd42f0838)
+* [Show Mi The Vulns: Exploiting Command Injection in Mi Router 3](https://blog.securityevaluators.com/show-mi-the-vulns-exploiting-command-injection-in-mi-router-3-55c6bcb48f09)
+* [Xiaomi Wi-Fi Repeater Analysis — IoT Exploitation/Research](https://k4r4koyun.medium.com/xiaomi-wi-fi-repeater-analysis-iot-exploitation-research-6c689ce196a5)
+* [Custom Firmware for the Xiaomi AX3600 Wireless Router](https://irq5.io/2020/08/10/custom-firmware-for-the-xiaomi-ax3600-wireless-router/)
 
 ### CAMERA
 
@@ -112,6 +120,11 @@
 * [How I Hacked my Car Part 2: Making a Backdoor](https://programmingwithstyle.com/posts/howihackedmycarpart2/)
 * [How I Hacked my Car Part 3: Making Software](https://programmingwithstyle.com/posts/howihackedmycarpart3/)
 * [NFC RELAY ATTACK ON TESLA MODEL Y](https://act-on.ioactive.com/acton/attachment/34793/f-6460b49e-1afe-41c3-8f73-17dc14916847/1/-/-/-/-/NFC-relay-TESlA_JRoriguez.pdf)
+
+### Smart Speaker
+
+* [DEFCON-26-Breaking-Smart-Speakers](https://media.defcon.org/DEF%20CON%2026/DEF%20CON%2026%20presentations/DEFCON-26-Wu-HuiYu-and-Qian-Wenxiang-Breaking-Smart-Speakers-Updated.pdf)
+* 
 
 ## Exploitation Method
 
