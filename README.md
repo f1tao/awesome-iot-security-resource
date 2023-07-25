@@ -96,6 +96,7 @@
 * [Show Mi The Vulns: Exploiting Command Injection in Mi Router 3](https://blog.securityevaluators.com/show-mi-the-vulns-exploiting-command-injection-in-mi-router-3-55c6bcb48f09)
 * [Xiaomi Wi-Fi Repeater Analysis — IoT Exploitation/Research](https://k4r4koyun.medium.com/xiaomi-wi-fi-repeater-analysis-iot-exploitation-research-6c689ce196a5)
 * [Custom Firmware for the Xiaomi AX3600 Wireless Router](https://irq5.io/2020/08/10/custom-firmware-for-the-xiaomi-ax3600-wireless-router/)
+* [物联网设备消息总线机制的使用及安全问题](https://gtrboy.github.io/posts/bus/)
 
 ### CAMERA
 
