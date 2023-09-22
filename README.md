@@ -4,8 +4,13 @@
 
 * [WHAT HAPPENS WHEN YOUR ROUTER IS HACKED?](https://nordsecurity.com/blog/what-happens-when-router-is-hacked)
 * [IoT Reverse Engineering](https://mp.weixin.qq.com/s/_pzsmZZz9cTcOxIl0cDgGQ)
+* [Embedded Systems Security and TrustZone](https://embeddedsecurity.io/index.html)
 
 ## Vulnerability Writeup
+
+### Citrix
+
+* [Analysis of CVE-2023-3519 in Citrix ADC and NetScaler Gateway](https://blog.assetnote.io/2023/07/21/citrix-CVE-2023-3519-analysis/)
 
 ### F5 BIG-IP
 
@@ -17,6 +22,9 @@
 * [Attacking SSL VPN - Part 2: Breaking the Fortigate SSL VPN](https://blog.orange.tw/2019/08/attacking-ssl-vpn-part-2-breaking-the-fortigate-ssl-vpn.html)
 * [Producing a POC for CVE-2022-42475 (Fortinet RCE)](https://blog.scrt.ch/2023/03/14/producing-a-poc-for-cve-2022-42475-fortinet-rce/)
 * [CVE-2022-42475](https://wzt.ac.cn/2022/12/15/CVE-2022-42475/)
+* [Xortigate, or CVE-2023-27997 - The Rumoured RCE That Was](https://labs.watchtowr.com/xortigate-or-cve-2023-27997/)
+* [XORtigate: Pre-authentication Remote Code Execution on Fortigate VPN (CVE-2023-27997)](https://blog.lexfo.fr/xortigate-cve-2023-27997.html)
+* [CVE-2023-27997-FortiGate-SSLVPN-HeapOverflow](https://bestwing.me/CVE-2023-27997-FortiGate-SSLVPN-Heap-Overflow.html)
 
 ### Pulse Secure
 
@@ -30,6 +38,14 @@
 
 * [CVE-2023-36844 And Friends: RCE In Juniper Devices](https://labs.watchtowr.com/cve-2023-36844-and-friends-rce-in-juniper-firewalls/)
 * [Fileless Remote Code Execution on Juniper Firewalls](https://vulncheck.com/blog/juniper-cve-2023-36845)
+
+### VxWroks
+
+* [Wind River VxWorks tarExtract directory traversal vulnerability (CVE-2023-38346)](https://www.pentagrid.ch/en/blog/wind-river-vxworks-tarextract-directory-traversal-vulnerability/)
+
+### MikroTik
+
+* [Pulling MikroTik into the Limelight](https://margin.re/2022/06/pulling-mikrotik-into-the-limelight/)
 
 ### Netgear
 
@@ -59,6 +75,14 @@
 * [TOTOLINK T10旧版本漏洞挖掘和分析](https://blingblingxuanxuan.github.io/2021/09/25/analysis-of-totolink-t10)
 * [TOTOLink T6路由器漏洞复现](https://blog.csdn.net/qq_41667409/article/details/122441295)
 * [TOTOLINK NR1800X 系列 CVE 分析](https://paper.seebug.org/1995)
+
+### Tenda
+
+* [Vulnerabilities in Tenda's W15Ev2 AC1200 Router](https://boschko.ca/tenda_ac1200_router/)
+
+###  GL.iNET
+
+* [Vulnerabilities and Hardware Teardown of GL.iNET GL-MT300N-V2 Router](https://boschko.ca/glinet-router/)
 
 ### Vigor
 
@@ -130,7 +154,10 @@
 ### Smart Speaker
 
 * [DEFCON-26-Breaking-Smart-Speakers](https://media.defcon.org/DEF%20CON%2026/DEF%20CON%2026%20presentations/DEFCON-26-Wu-HuiYu-and-Qian-Wenxiang-Breaking-Smart-Speakers-Updated.pdf)
-* 
+
+### Protocol
+
+* [From MQTT Fundamentals to CVE](https://blog.compass-security.com/2023/09/from-mqtt-fundamentals-to-cve/)
 
 ## Exploitation Method
 
@@ -157,6 +184,8 @@
 * [HARDWARE HACKING 101: IDENTIFYING AND DUMPING EMMC FLASH](https://www.riverloopsecurity.com/blog/2020/03/hw-101-emmc/)
 * [Extract Firmware from OT Devices for Vulnerability Research](https://www.nozominetworks.com/blog/extract-firmware-from-ot-devices-for-vulnerability-research/)
 * [Methods for Extracting Firmware from OT Devices for Vulnerability Research](https://www.nozominetworks.com/blog/methods-for-extracting-firmware-from-ot-devices-for-vulnerability-research/)
+* [Hacking Some More Secure USB Flash Drives (Part I)](https://blog.syss.com/posts/hacking-usb-flash-drives-part-1/)
+* [Hacking Some More Secure USB Flash Drives (Part II)](https://blog.syss.com/posts/hacking-usb-flash-drives-part-2/)
 
 ### Fault Injection
 
@@ -166,6 +195,10 @@
 * [HARDENING SECURE BOOT ON EMBEDDED DEVICES FOR HOSTILE ENVIRONMENTS](https://raelize.com/upload/research/2019/2019_BlueHat-IL_Hardening-Secure-Boot-on-Embedded-Devices-for-Hostile-Environments_NT-AS-CM.pdf)
 
 ## Firmware
+
+### Firmware Emulation
+
+* [Emulating IoT Firmware Made Easy: Start Hacking Without the Physical Device](https://boschko.ca/qemu-emulating-firmware/)
 
 ### Firmware Analysis
 
@@ -177,8 +210,9 @@
 * [Zyxel firmware extraction and password analysis](https://security.humanativaspa.it/zyxel-firmware-extraction-and-password-analysis/)
 * [Reverse Engineering Yaesu FT-70D Firmware Encryption](https://landaire.net/reversing-yaesu-firmware-encryption/)
 * [Bypassing software update package encryption – extracting the Lexmark MC3224i printer firmware (part 1)](https://research.nccgroup.com/2022/02/17/bypassing-software-update-package-encryption-extracting-the-lexmark-mc3224i-printer-firmware-part-1/)
+* [Intro to Embedded RE: UART Discovery and Firmware Extraction via UBoot](https://voidstarsec.com/blog/uart-uboot-and-usb)
 
-## Protocol Specification
+## Specification
 
 * [FastCGI Developer's Kit](http://fastcgi-archives.github.io/fcgi2/doc/overview.html)
 * [The Common Gateway Interface (CGI) Version 1.1](https://www.rfc-editor.org/rfc/rfc3875)
