@@ -5,12 +5,16 @@
 * [WHAT HAPPENS WHEN YOUR ROUTER IS HACKED?](https://nordsecurity.com/blog/what-happens-when-router-is-hacked)
 * [IoT Reverse Engineering](https://mp.weixin.qq.com/s/_pzsmZZz9cTcOxIl0cDgGQ)
 * [Embedded Systems Security and TrustZone](https://embeddedsecurity.io/index.html)
+* [CH32V003 PROGRAMMING: HOW TO USE UART](https://pallavaggarwal.in/2023/09/23/ch32v003-programming-uart/)
 
 ## Vulnerability Writeup
 
 ### Citrix
 
+* [Reversing Citrix Gateway for XSS](https://blog.assetnote.io/2023/06/29/binary-reversing-citrix-xss/)
 * [Analysis of CVE-2023-3519 in Citrix ADC and NetScaler Gateway](https://blog.assetnote.io/2023/07/21/citrix-CVE-2023-3519-analysis/)
+* [Analysis of CVE-2023-3519 in Citrix ADC and NetScaler Gateway (Part 2)](https://blog.assetnote.io/2023/07/21/citrix-CVE-2023-3519-analysis/)
+* [CVE-2023-3519](https://attackerkb.com/topics/si09VNJhHh/cve-2023-3519)
 
 ### F5 BIG-IP
 
@@ -126,6 +130,7 @@
 * [Xiaomi Wi-Fi Repeater Analysis — IoT Exploitation/Research](https://k4r4koyun.medium.com/xiaomi-wi-fi-repeater-analysis-iot-exploitation-research-6c689ce196a5)
 * [Custom Firmware for the Xiaomi AX3600 Wireless Router](https://irq5.io/2020/08/10/custom-firmware-for-the-xiaomi-ax3600-wireless-router/)
 * [物联网设备消息总线机制的使用及安全问题](https://gtrboy.github.io/posts/bus/)
+* [Rooting Xiaomi WiFi Routers](https://blog.thalium.re/posts/rooting-xiaomi-wifi-routers/)
 
 ### CAMERA
 
@@ -242,6 +247,10 @@
 ### Other
 
 * [bkcrack](https://github.com/kimci86/bkcrack)
+
+* [mips-binaries](https://github.com/darkerego/mips-binaries)
+
+  Various binaries for the mips architecture
 
 ## Blog
 
