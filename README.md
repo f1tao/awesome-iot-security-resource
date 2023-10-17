@@ -29,6 +29,7 @@
 * [Xortigate, or CVE-2023-27997 - The Rumoured RCE That Was](https://labs.watchtowr.com/xortigate-or-cve-2023-27997/)
 * [XORtigate: Pre-authentication Remote Code Execution on Fortigate VPN (CVE-2023-27997)](https://blog.lexfo.fr/xortigate-cve-2023-27997.html)
 * [CVE-2023-27997-FortiGate-SSLVPN-HeapOverflow](https://bestwing.me/CVE-2023-27997-FortiGate-SSLVPN-Heap-Overflow.html)
+* [Breaking Fortinet Firmware Encryption](https://bishopfox.com/blog/breaking-fortinet-firmware-encryption)
 
 ### Pulse Secure
 
@@ -110,6 +111,7 @@
 * [Debugging D-Link: Emulating firmware and hacking hardware](https://www.greynoise.io/blog/debugging-d-link-emulating-firmware-and-hacking-hardware)
 * [D-Link DIR-816 A2路由器安全研究分享](https://paper.seebug.org/1036/)
 * [Reverse Engineering a D-Link Backdoor](https://lcx.cc/post/3950/)
+* [D-Link DAP-X1860: Remote Command Injection](https://www.redteam-pentesting.de/en/advisories/rt-sa-2023-006/-d-link-dap-x1860-remote-command-injection)
 
 ### XiaoMI
 
@@ -131,6 +133,11 @@
 * [Custom Firmware for the Xiaomi AX3600 Wireless Router](https://irq5.io/2020/08/10/custom-firmware-for-the-xiaomi-ax3600-wireless-router/)
 * [物联网设备消息总线机制的使用及安全问题](https://gtrboy.github.io/posts/bus/)
 * [Rooting Xiaomi WiFi Routers](https://blog.thalium.re/posts/rooting-xiaomi-wifi-routers/)
+
+### NAS
+
+* [A Pain in the NAS: Exploiting Cloud Connectivity to PWN your NAS: WD PR4100 Edition](https://claroty.com/team82/research/a-pain-in-the-nas-exploiting-cloud-connectivity-to-pwn-your-nas-wd-pr4100-edition)
+* [A Pain in the NAS: Exploiting Cloud Connectivity to PWN your NAS: Synology DS920+ Edition](https://claroty.com/team82/research/a-pain-in-the-nas-exploiting-cloud-connectivity-to-pwn-your-nas-synology-ds920-edition)
 
 ### CAMERA
 
@@ -216,6 +223,7 @@
 * [Reverse Engineering Yaesu FT-70D Firmware Encryption](https://landaire.net/reversing-yaesu-firmware-encryption/)
 * [Bypassing software update package encryption – extracting the Lexmark MC3224i printer firmware (part 1)](https://research.nccgroup.com/2022/02/17/bypassing-software-update-package-encryption-extracting-the-lexmark-mc3224i-printer-firmware-part-1/)
 * [Intro to Embedded RE: UART Discovery and Firmware Extraction via UBoot](https://voidstarsec.com/blog/uart-uboot-and-usb)
+* [Breaking Fortinet Firmware Encryption](https://bishopfox.com/blog/breaking-fortinet-firmware-encryption)
 
 ## Specification
 
@@ -238,7 +246,12 @@
 ### Firmware Analysis
 
 * [firmwalker](https://github.com/craigz28/firmwalker)
+
 * [emba](https://github.com/e-m-b-a/emba)
+
+* [pyrrha](https://github.com/quarkslab/pyrrha)
+
+  A filesystem cartography and correlation software focusing on visualization.
 
 ### Debug Tool
 
