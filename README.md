@@ -9,6 +9,12 @@
 
 ## Vulnerability Writeup
 
+### Cisco
+
+* Cisco IOS XE CVE-2023-20198 and CVE-2023-20273: WebUI Internals, Patch Diffs, and Theory Crafting
+
+  https://www.horizon3.ai/cisco-ios-xe-cve-2023-20198-theory-crafting/
+
 ### Citrix
 
 * [Reversing Citrix Gateway for XSS](https://blog.assetnote.io/2023/06/29/binary-reversing-citrix-xss/)
@@ -20,6 +26,7 @@
 
 * [CVE-2022-41622 and CVE-2022-41800 (FIXED): F5 BIG-IP and iControl REST Vulnerabilities and Exposures](https://www.rapid7.com/blog/post/2022/11/16/cve-2022-41622-and-cve-2022-41800-fixed-f5-big-ip-and-icontrol-rest-vulnerabilities-and-exposures/)
 * [CVE-2023-22374: F5 BIG-IP Format String Vulnerability](https://www.rapid7.com/blog/post/2023/02/01/cve-2023-22374-f5-big-ip-format-string-vulnerability/)
+* [Refresh: Compromising F5 BIG-IP With Request Smuggling | CVE-2023-46747](https://www.praetorian.com/blog/refresh-compromising-f5-big-ip-with-request-smuggling-cve-2023-46747/)
 
 ### Fortigate
 
@@ -138,6 +145,7 @@
 
 * [A Pain in the NAS: Exploiting Cloud Connectivity to PWN your NAS: WD PR4100 Edition](https://claroty.com/team82/research/a-pain-in-the-nas-exploiting-cloud-connectivity-to-pwn-your-nas-wd-pr4100-edition)
 * [A Pain in the NAS: Exploiting Cloud Connectivity to PWN your NAS: Synology DS920+ Edition](https://claroty.com/team82/research/a-pain-in-the-nas-exploiting-cloud-connectivity-to-pwn-your-nas-synology-ds920-edition)
+* [Synology NAS DSM Account Takeover: When Random is not Secure](https://claroty.com/team82/research/synology-nas-dsm-account-takeover-when-random-is-not-secure)
 
 ### CAMERA
 
@@ -150,6 +158,7 @@
 ### BootLoader
 
 * [Technical Advisory – U-Boot – Unchecked Download Size and Direction in USB DFU (CVE-2022-2347)](https://research.nccgroup.com/2023/01/20/technical-advisory-u-boot-unchecked-download-size-and-direction-in-usb-dfu-cve-2022-2347/)
+* [[胖猴小玩闹] 智能门锁与网关番外二： 云丁鹿客门锁中bootloader和FreeRTOS的分析](https://mp.weixin.qq.com/s?__biz=MzI1MDQ5MzA4NA==&mid=2247484014&idx=1&sn=4c6c8d72837a9a1ced3d158b8c3527c0)
 
 ### Printer
 
@@ -170,6 +179,10 @@
 ### Protocol
 
 * [From MQTT Fundamentals to CVE](https://blog.compass-security.com/2023/09/from-mqtt-fundamentals-to-cve/)
+
+### Other
+
+* [Tetsuji: Remote Code Execution on a GameBoy Colour 22 Years Later](https://xcellerator.github.io/posts/tetsuji/)
 
 ## Exploitation Method
 
