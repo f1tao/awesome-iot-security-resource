@@ -11,9 +11,8 @@
 
 ### Cisco
 
-* Cisco IOS XE CVE-2023-20198 and CVE-2023-20273: WebUI Internals, Patch Diffs, and Theory Crafting
-
-  https://www.horizon3.ai/cisco-ios-xe-cve-2023-20198-theory-crafting/
+* [Cisco IOS XE CVE-2023-20198 and CVE-2023-20273: WebUI Internals, Patch Diffs, and Theory Crafting](https://www.horizon3.ai/cisco-ios-xe-cve-2023-20198-theory-crafting/)
+* [Cisco IOS XE CVE-2023-20198: Deep Dive and POC](https://www.horizon3.ai/cisco-ios-xe-cve-2023-20198-deep-dive-and-poc/)
 
 ### Citrix
 
@@ -37,6 +36,7 @@
 * [XORtigate: Pre-authentication Remote Code Execution on Fortigate VPN (CVE-2023-27997)](https://blog.lexfo.fr/xortigate-cve-2023-27997.html)
 * [CVE-2023-27997-FortiGate-SSLVPN-HeapOverflow](https://bestwing.me/CVE-2023-27997-FortiGate-SSLVPN-Heap-Overflow.html)
 * [Breaking Fortinet Firmware Encryption](https://bishopfox.com/blog/breaking-fortinet-firmware-encryption)
+* [Building an Exploit for FortiGate Vulnerability CVE-2023-27997](https://bishopfox.com/blog/building-exploit-fortigate-vulnerability-cve-2023-27997)
 
 ### Pulse Secure
 
@@ -228,6 +228,7 @@
 ### Firmware Analysis
 
 * [IoT漏洞研究（一）固件基础](https://www.freebuf.com/articles/endpoint/254257.html)
+* [OpenWRT中的Flash简析](https://mp.weixin.qq.com/s?__biz=Mzg3NzczOTA3OQ==&mid=2247486018&idx=1&sn=d1a2a1bccb2376cb7197423f8ebb788a)
 
 ### Firmware Extraction
 
