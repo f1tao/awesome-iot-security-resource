@@ -147,13 +147,14 @@
 * [A Pain in the NAS: Exploiting Cloud Connectivity to PWN your NAS: Synology DS920+ Edition](https://claroty.com/team82/research/a-pain-in-the-nas-exploiting-cloud-connectivity-to-pwn-your-nas-synology-ds920-edition)
 * [Synology NAS DSM Account Takeover: When Random is not Secure](https://claroty.com/team82/research/synology-nas-dsm-account-takeover-when-random-is-not-secure)
 
-### CAMERA
+### Camera
 
 * [HiSilicon DVR hack](https://github.com/tothi/pwn-hisilicon-dvr/tree/42d8325e68fdb075fe27df8a269932f9fa9601a6)
 * [Exploiting: Buffer overflow in Xiongmai DVRs](https://blog.ret2.me/post/2022-01-26-exploiting-xiongmai-dvrs/)
 * [Hacking the Furbo Dog Camera: Part I](https://www.somersetrecon.com/blog/2021/hacking-the-furbo-part-1)
 * [Hacking the Furbo Dog Camera: Part II](https://www.somersetrecon.com/blog/2021/hacking-the-furbo-dog-camera-part-ii)
 * [Hacking the Furbo Dog Camera: Part III Fun with Firmware](https://www.somersetrecon.com/blog/2022/hacking-the-furbo-dog-camera-part-iii)
+* [Hacking a Tapo TC60 Camera](https://medium.com/@two06/hacking-a-tapo-tc60-camera-e6ce7ca6cad1)
 
 ### BootLoader
 
