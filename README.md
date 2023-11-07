@@ -160,6 +160,7 @@
 
 * [Technical Advisory – U-Boot – Unchecked Download Size and Direction in USB DFU (CVE-2022-2347)](https://research.nccgroup.com/2023/01/20/technical-advisory-u-boot-unchecked-download-size-and-direction-in-usb-dfu-cve-2022-2347/)
 * [[胖猴小玩闹] 智能门锁与网关番外二： 云丁鹿客门锁中bootloader和FreeRTOS的分析](https://mp.weixin.qq.com/s?__biz=MzI1MDQ5MzA4NA==&mid=2247484014&idx=1&sn=4c6c8d72837a9a1ced3d158b8c3527c0)
+* [Breaking Secure Boot on the Silicon Labs Gecko platform](https://blog.quarkslab.com/breaking-secure-boot-on-the-silicon-labs-gecko-platform.html)
 
 ### Printer
 
