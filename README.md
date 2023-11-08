@@ -166,6 +166,12 @@
 
 * [Bypassing software update package encryption – extracting the Lexmark MC3224i printer firmware (part 1)](https://research.nccgroup.com/2022/02/17/bypassing-software-update-package-encryption-extracting-the-lexmark-mc3224i-printer-firmware-part-1/)
 * [Analyzing a PJL directory traversal vulnerability – exploiting the Lexmark MC3224i printer (part 2)](https://research.nccgroup.com/2022/02/18/analyzing-a-pjl-directory-traversal-vulnerability-exploiting-the-lexmark-mc3224i-printer-part-2/)
+* [DryOS PIXMA Printer Shell](https://chdk.fandom.com/wiki/DryOS_PIXMA_Printer_Shell)
+* [A Sheep in Wolf’s Clothing – Finding RCE in HP’s Printer Fleet](https://foxglovesecurity.com/2017/11/20/a-sheep-in-wolfs-clothing-finding-rce-in-hps-printer-fleet/)
+* [FAXPLOIT: SENDING FAX BACK TO THE DARK AGES](https://research.checkpoint.com/2018/sending-fax-back-to-the-dark-ages/)
+* [TREASURE CHEST PARTY QUEST: FROM DOOM TO EXPLOIT](https://synacktiv.com/publications/treasure-chest-party-quest-from-doom-to-exploit.html)
+* [Pwn2Own 2021 Canon ImageCLASS MF644Cdw writeup](https://doar-e.github.io/blog/2022/06/11/pwn2own-2021-canon-imageclass-mf644cdw-writeup/)
+* [Your printer is not your printer ! - Hacking Printers at Pwn2Own Part I](https://devco.re/blog/2023/10/05/your-printer-is-not-your-printer-hacking-printers-pwn2own-part1-en/)
 
 ### Car
 
@@ -268,6 +274,10 @@
 * [pyrrha](https://github.com/quarkslab/pyrrha)
 
   A filesystem cartography and correlation software focusing on visualization.
+  
+* [rbasefind](https://github.com/sgayou/rbasefind)
+
+  A firmware base address search tool.
 
 ### Debug Tool
 
