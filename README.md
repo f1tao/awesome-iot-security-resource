@@ -172,6 +172,8 @@
 * [TREASURE CHEST PARTY QUEST: FROM DOOM TO EXPLOIT](https://synacktiv.com/publications/treasure-chest-party-quest-from-doom-to-exploit.html)
 * [Pwn2Own 2021 Canon ImageCLASS MF644Cdw writeup](https://doar-e.github.io/blog/2022/06/11/pwn2own-2021-canon-imageclass-mf644cdw-writeup/)
 * [Your printer is not your printer ! - Hacking Printers at Pwn2Own Part I](https://devco.re/blog/2023/10/05/your-printer-is-not-your-printer-hacking-printers-pwn2own-part1-en/)
+* [Your printer is not your printer ! - Hacking Printers at Pwn2Own Part II](https://devco.re/blog/2023/11/06/your-printer-is-not-your-printer-hacking-printers-pwn2own-part2-en/)
+* [【hitcon2022】Your printer is not your printer ! - Hacking Printers at Pwn2Own](https://hitcon.org/2022/slides/Your%20Printer%20is%20not%20your%20Printer%20!%20-%20Hacking%20Printers%20at%20Pwn2Own.pdf)
 
 ### Car
 
