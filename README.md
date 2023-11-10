@@ -181,6 +181,10 @@
 * [How I Hacked my Car Part 2: Making a Backdoor](https://programmingwithstyle.com/posts/howihackedmycarpart2/)
 * [How I Hacked my Car Part 3: Making Software](https://programmingwithstyle.com/posts/howihackedmycarpart3/)
 * [NFC RELAY ATTACK ON TESLA MODEL Y](https://act-on.ioactive.com/acton/attachment/34793/f-6460b49e-1afe-41c3-8f73-17dc14916847/1/-/-/-/-/NFC-relay-TESlA_JRoriguez.pdf)
+* [浅谈车机IVI漏洞挖掘](https://xz.aliyun.com/t/12988)
+* [新型车机，如何攻防？](https://blog.nsfocus.net/tbox/)
+* [Rooting Bosch lcn2kai Headunit](https://github.com/ea/bosch_headunit_root)
+* [APK逆向分析入门-以某车载音乐APP为例](https://xz.aliyun.com/t/12972)
 
 ### Smart Speaker
 
