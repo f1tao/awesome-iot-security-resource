@@ -74,6 +74,8 @@
 * [Reverse Engineering a Netgear Nday](https://starkeblog.com/netgear/nday/2022/03/13/reverse-engineering-a-netgear-nday.html)
 * [Analyzing an Old Netatalk dsi_writeinit Buffer Overflow Vulnerability in NETGEAR Router](https://medium.com/@cq674350529/analyzing-an-old-netatalk-dsi-writeinit-buffer-overflow-vulnerability-in-netgear-router-4e9d59064584)
 * [NETGEAR NIGHTHAWK R7000P AWS_JSON UNAUTHENTICATED DOUBLE STACK OVERFLOW VULNERABILITY](https://hdwsec.fr/blog/20221109-netgear/)
+* [Our Pwn2Own journey against time and randomness (part 1)](https://blog.quarkslab.com/our-pwn2own-journey-against-time-and-randomness-part-1.html)
+* [Our Pwn2Own journey against time and randomness (part 2)](https://blog.quarkslab.com/our-pwn2own-journey-against-time-and-randomness-part-2.html)
 
 ### Zyxel
 
