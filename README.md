@@ -13,6 +13,7 @@
 
 * [Cisco IOS XE CVE-2023-20198 and CVE-2023-20273: WebUI Internals, Patch Diffs, and Theory Crafting](https://www.horizon3.ai/cisco-ios-xe-cve-2023-20198-theory-crafting/)
 * [Cisco IOS XE CVE-2023-20198: Deep Dive and POC](https://www.horizon3.ai/cisco-ios-xe-cve-2023-20198-deep-dive-and-poc/)
+* [Analysis of Unauthenticated Command Execution Vulnerability in Cisco IOS XE System WebUI](https://paper.seebug.org/3073/)
 
 ### Citrix
 
@@ -93,6 +94,9 @@
 ### Tenda
 
 * [Vulnerabilities in Tenda's W15Ev2 AC1200 Router](https://boschko.ca/tenda_ac1200_router/)
+* [Tenda AX12 路由器设备分析（一）](https://www.anquanke.com/post/id/255290)
+* [Tenda AX12路由器设备分析（二）之UPnP协议](https://www.anquanke.com/post/id/263170)
+* [Tenda AX12 路由器设备分析（三）之OpenWrt 浅析](https://www.anquanke.com/post/id/264194)
 
 ###  GL.iNET
 
@@ -307,3 +311,4 @@
 * [nccgroup](https://research.nccgroup.com/)
 * [HDW Sec](https://hdwsec.fr/#blog)
 * [River Loop Security](https://www.riverloopsecurity.com/blog/)
+* [Team82](https://claroty.com/team82/research)
