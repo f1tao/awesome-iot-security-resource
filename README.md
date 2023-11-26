@@ -35,6 +35,7 @@
 * [CVE-2022-42475](https://wzt.ac.cn/2022/12/15/CVE-2022-42475/)
 * [Xortigate, or CVE-2023-27997 - The Rumoured RCE That Was](https://labs.watchtowr.com/xortigate-or-cve-2023-27997/)
 * [XORtigate: Pre-authentication Remote Code Execution on Fortigate VPN (CVE-2023-27997)](https://blog.lexfo.fr/xortigate-cve-2023-27997.html)
+* [HEXACON2023 - XORtigate: zero-effort, zero-expense, 0-day on Fortinet SSL VPN by Charles Fol](https://www.youtube.com/watch?v=7yxTI_4vPGk)
 * [CVE-2023-27997-FortiGate-SSLVPN-HeapOverflow](https://bestwing.me/CVE-2023-27997-FortiGate-SSLVPN-Heap-Overflow.html)
 * [Breaking Fortinet Firmware Encryption](https://bishopfox.com/blog/breaking-fortinet-firmware-encryption)
 * [Building an Exploit for FortiGate Vulnerability CVE-2023-27997](https://bishopfox.com/blog/building-exploit-fortigate-vulnerability-cve-2023-27997)
@@ -77,6 +78,7 @@
 * [NETGEAR NIGHTHAWK R7000P AWS_JSON UNAUTHENTICATED DOUBLE STACK OVERFLOW VULNERABILITY](https://hdwsec.fr/blog/20221109-netgear/)
 * [Our Pwn2Own journey against time and randomness (part 1)](https://blog.quarkslab.com/our-pwn2own-journey-against-time-and-randomness-part-1.html)
 * [Our Pwn2Own journey against time and randomness (part 2)](https://blog.quarkslab.com/our-pwn2own-journey-against-time-and-randomness-part-2.html)
+* [Pwn2Own Toronto 22: Exploit Netgear Nighthawk RAX30 Routers](https://claroty.com/team82/research/chaining-five-vulnerabilities-to-exploit-netgear-nighthawk-rax30-routers-at-pwn2own-toronto-2022)
 
 ### Zyxel
 
