@@ -53,6 +53,10 @@
 * [CVE-2023-36844 And Friends: RCE In Juniper Devices](https://labs.watchtowr.com/cve-2023-36844-and-friends-rce-in-juniper-firewalls/)
 * [Fileless Remote Code Execution on Juniper Firewalls](https://vulncheck.com/blog/juniper-cve-2023-36845)
 
+## SonicWall
+
+* [一种 SonicWall nsv 虚拟机的解包方法](https://www.anquanke.com/post/id/266078)
+
 ### VxWroks
 
 * [Wind River VxWorks tarExtract directory traversal vulnerability (CVE-2023-38346)](https://www.pentagrid.ch/en/blog/wind-river-vxworks-tarextract-directory-traversal-vulnerability/)
