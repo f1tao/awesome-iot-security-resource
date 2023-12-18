@@ -56,6 +56,7 @@
 ### SonicWall
 
 * [一种 SonicWall nsv 虚拟机的解包方法](https://www.anquanke.com/post/id/266078)
+* [Ghost In The Wire, Sonic In The Wall - Adventures With SonicWall](https://labs.watchtowr.com/ghost-in-the-wire-sonic-in-the-wall/)
 
 ### VxWroks
 
@@ -318,3 +319,4 @@
 * [HDW Sec](https://hdwsec.fr/#blog)
 * [River Loop Security](https://www.riverloopsecurity.com/blog/)
 * [Team82](https://claroty.com/team82/research)
+* [watchTowr Labs](https://labs.watchtowr.com/)
