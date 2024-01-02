@@ -14,6 +14,11 @@
 * [Cisco IOS XE CVE-2023-20198 and CVE-2023-20273: WebUI Internals, Patch Diffs, and Theory Crafting](https://www.horizon3.ai/cisco-ios-xe-cve-2023-20198-theory-crafting/)
 * [Cisco IOS XE CVE-2023-20198: Deep Dive and POC](https://www.horizon3.ai/cisco-ios-xe-cve-2023-20198-deep-dive-and-poc/)
 * [Analysis of Unauthenticated Command Execution Vulnerability in Cisco IOS XE System WebUI](https://paper.seebug.org/3073/)
+* [Cisco RV130 – It’s 2019, but yet: strcpy](https://www.pentestpartners.com/security-blog/cisco-rv130-its-2019-but-yet-strcpy/)
+* [Exploiting CVE-2019-1663](https://quentinkaiser.be/exploitdev/2019/08/30/exploit-cve-2019-1663/)
+* [Breaking Cisco RV110W, RV130, RV130W, and RV215W. Again.](https://quentinkaiser.be/exploitdev/2020/07/14/breaking-cisco-rv-again/)
+* [Ghetto Patch Diffing a Cisco RV110W Firmware Update](https://quentinkaiser.be/exploitdev/2020/09/23/ghetto-patch-diffing-cisco/)
+* [Patch Diffing a Cisco RV110W Firmware Update (Part II)](https://quentinkaiser.be/exploitdev/2020/10/01/patch-diffing-cisco-rv110/)
 
 ### Citrix
 
