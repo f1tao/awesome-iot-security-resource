@@ -307,6 +307,12 @@
 
 * [gdb-static-cross](https://github.com/stayliv3/gdb-static-cross/tree/master/prebuilt)
 
+  A simple shell script and two bash sourceable scripts used to build a static gdb-7.12 gdbserver using cross-compiler setups
+
+* [gdb-static](https://github.com/hugsy/gdb-static)
+
+  Public repository of statically compiled GDB and GDBServer
+
 ### Other
 
 * [bkcrack](https://github.com/kimci86/bkcrack)
