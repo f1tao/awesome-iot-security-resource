@@ -243,6 +243,7 @@
 * [Methods for Extracting Firmware from OT Devices for Vulnerability Research](https://www.nozominetworks.com/blog/methods-for-extracting-firmware-from-ot-devices-for-vulnerability-research/)
 * [Hacking Some More Secure USB Flash Drives (Part I)](https://blog.syss.com/posts/hacking-usb-flash-drives-part-1/)
 * [Hacking Some More Secure USB Flash Drives (Part II)](https://blog.syss.com/posts/hacking-usb-flash-drives-part-2/)
+* [Hardware Hacking to Bypass BIOS Passwords](https://cybercx.co.nz/blog/bypassing-bios-password/)
 
 ### Fault Injection
 
