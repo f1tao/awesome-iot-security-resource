@@ -129,6 +129,8 @@
 * [TP-Link AC1750 (Pwn2Own 2019)](https://labs.withsecure.com/advisories/tp-link-ac1750-pwn2own-2019)
 * [EXPLOITING THE TP-LINK ARCHER A7 AT PWN2OWN TOKYO](https://www.zerodayinitiative.com/blog/2020/4/6/exploiting-the-tp-link-archer-c7-at-pwn2own-tokyo)
 * [PWN2OWN TOKYO 2020: DEFEATING THE TP-LINK AC1750](https://www.synacktiv.com/en/publications/pwn2own-tokyo-2020-defeating-the-tp-link-ac1750.html)
+* [Exploiting n-day in Home Security Camera](https://0xbigshaq.github.io/2024/01/05/tp-link-tapo-c100/)
+* [TP-Link IP43AN](https://wzt.ac.cn/2020/05/23/IPC43AN/)
 
 ### D-Link
 
@@ -173,6 +175,7 @@
 * [Hacking the Furbo Dog Camera: Part II](https://www.somersetrecon.com/blog/2021/hacking-the-furbo-dog-camera-part-ii)
 * [Hacking the Furbo Dog Camera: Part III Fun with Firmware](https://www.somersetrecon.com/blog/2022/hacking-the-furbo-dog-camera-part-iii)
 * [Hacking a Tapo TC60 Camera](https://medium.com/@two06/hacking-a-tapo-tc60-camera-e6ce7ca6cad1)
+* [Black Hat 2013 - Exploiting Network Surveillance Cameras Like a Hollywood Hacker](https://www.youtube.com/watch?v=B8DjTcANBx0)
 
 ### BootLoader
 
@@ -271,6 +274,7 @@
 * [Bypassing software update package encryption – extracting the Lexmark MC3224i printer firmware (part 1)](https://research.nccgroup.com/2022/02/17/bypassing-software-update-package-encryption-extracting-the-lexmark-mc3224i-printer-firmware-part-1/)
 * [Intro to Embedded RE: UART Discovery and Firmware Extraction via UBoot](https://voidstarsec.com/blog/uart-uboot-and-usb)
 * [Breaking Fortinet Firmware Encryption](https://bishopfox.com/blog/breaking-fortinet-firmware-encryption)
+* [Dumping Flash Content](https://drmnsamoliu.github.io/flashdump.html)
 
 ## Specification
 
@@ -332,3 +336,4 @@
 * [River Loop Security](https://www.riverloopsecurity.com/blog/)
 * [Team82](https://claroty.com/team82/research)
 * [watchTowr Labs](https://labs.watchtowr.com/)
+* [CataLpa](https://wzt.ac.cn/)
