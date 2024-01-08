@@ -339,3 +339,4 @@
 * [watchTowr Labs](https://labs.watchtowr.com/)
 * [CataLpa](https://wzt.ac.cn/)
 * [NeroTeam Security Labs (NSLabs)](https://neroteam.com/)
+* [Flashback Team](https://www.flashback.sh/blog)
