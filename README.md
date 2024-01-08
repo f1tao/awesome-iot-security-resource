@@ -19,6 +19,7 @@
 * [Breaking Cisco RV110W, RV130, RV130W, and RV215W. Again.](https://quentinkaiser.be/exploitdev/2020/07/14/breaking-cisco-rv-again/)
 * [Ghetto Patch Diffing a Cisco RV110W Firmware Update](https://quentinkaiser.be/exploitdev/2020/09/23/ghetto-patch-diffing-cisco/)
 * [Patch Diffing a Cisco RV110W Firmware Update (Part II)](https://quentinkaiser.be/exploitdev/2020/10/01/patch-diffing-cisco-rv110/)
+* [Cisco RV340 SSL VPN Unauthenticated Remote Code Execution as root](https://www.flashback.sh/blog/flashback-connects-cisco-rv340-ssl-vpn-rce)
 
 ### Citrix
 
