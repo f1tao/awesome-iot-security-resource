@@ -162,6 +162,10 @@
 * [物联网设备消息总线机制的使用及安全问题](https://gtrboy.github.io/posts/bus/)
 * [Rooting Xiaomi WiFi Routers](https://blog.thalium.re/posts/rooting-xiaomi-wifi-routers/)
 
+### ConnectedIO
+
+* [The Path to the Cloud is Filled with Holes: Exploiting 4G Edge Routers](https://claroty.com/team82/research/the-path-to-the-cloud-is-filled-with-holes-exploiting-4g-edge-routers)
+
 ### NAS
 
 * [A Pain in the NAS: Exploiting Cloud Connectivity to PWN your NAS: WD PR4100 Edition](https://claroty.com/team82/research/a-pain-in-the-nas-exploiting-cloud-connectivity-to-pwn-your-nas-wd-pr4100-edition)
