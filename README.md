@@ -63,6 +63,7 @@
 
 * [一种 SonicWall nsv 虚拟机的解包方法](https://www.anquanke.com/post/id/266078)
 * [Ghost In The Wire, Sonic In The Wall - Adventures With SonicWall](https://labs.watchtowr.com/ghost-in-the-wire-sonic-in-the-wall/)
+* [It’s 2024 and Over 178,000 SonicWall Firewalls are Publicly Exploitable](https://bishopfox.com/blog/its-2024-and-over-178-000-sonicwall-firewalls-are-publicly-exploitable)
 
 ### VxWroks
 
