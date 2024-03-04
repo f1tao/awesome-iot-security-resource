@@ -73,6 +73,9 @@
 
 * [Pulling MikroTik into the Limelight](https://margin.re/2022/06/pulling-mikrotik-into-the-limelight/)
 
+### ASUS
+
+* [Hunting for Unauthenticated n-days in Asus Routers](https://www.shielder.com/blog/2024/01/hunting-for-~~un~~authenticated-n-days-in-asus-routers/)
 ### Netgear
 
 * [CVE-2021-33514：Netgear 多款交换机命令注入漏洞](https://paper.seebug.org/1645/)
