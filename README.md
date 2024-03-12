@@ -220,9 +220,11 @@
 
 * [DEFCON-26-Breaking-Smart-Speakers](https://media.defcon.org/DEF%20CON%2026/DEF%20CON%2026%20presentations/DEFCON-26-Wu-HuiYu-and-Qian-Wenxiang-Breaking-Smart-Speakers-Updated.pdf)
 
-### Protocol
+### MQTT Protocol
 
 * [From MQTT Fundamentals to CVE](https://blog.compass-security.com/2023/09/from-mqtt-fundamentals-to-cve/)
+* [Burglars’ IoT Paradise: Understanding and Mitigating Security Risks of General Messaging Protocols on IoT Clouds](https://homes.luddy.indiana.edu/luyixing/bib/oakland20-mqtt.pdf)
+* [The Fragility of Industrial IoT’s Data Backbone](https://documents.trendmicro.com/assets/white_papers/wp-the-fragility-of-industrial-IoTs-data-backbone.pdf?v1)
 
 ### Other
 
