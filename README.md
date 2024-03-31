@@ -219,6 +219,7 @@
 ### Smart Speaker
 
 * [DEFCON-26-Breaking-Smart-Speakers](https://media.defcon.org/DEF%20CON%2026/DEF%20CON%2026%20presentations/DEFCON-26-Wu-HuiYu-and-Qian-Wenxiang-Breaking-Smart-Speakers-Updated.pdf)
+* [SMART SPEAKER SHENANIGANS: MAKING THE SONOS ONE SING ITS SECRETS](https://conference.hitb.org/files/hitbsecconf2023ams/materials/D2T1%20-%20Smart%20Speaker%20Shenanigans%20-%20Making%20the%20SONOS%20One%20Sing%20Its%20Secrets%20-%20Peter%20Geissler.pdf)
 
 ### MQTT Protocol
 
