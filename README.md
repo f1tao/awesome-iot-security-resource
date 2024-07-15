@@ -6,6 +6,12 @@
 * [IoT Reverse Engineering](https://mp.weixin.qq.com/s/_pzsmZZz9cTcOxIl0cDgGQ)
 * [Embedded Systems Security and TrustZone](https://embeddedsecurity.io/index.html)
 * [CH32V003 PROGRAMMING: HOW TO USE UART](https://pallavaggarwal.in/2023/09/23/ch32v003-programming-uart/)
+* [物联网终端安全入门与实践之了解物联网终端 （上篇）](https://www.secpulse.com/archives/188107.html)
+* [《物联网终端安全入门与实践之了解物联网终端》下](https://www.secpulse.com/archives/188122.html)
+* [《物联网终端安全入门与实践之玩转物联网固件》上](https://www.secpulse.com/archives/188182.html)
+* [物联网终端安全入门与实践之玩转物联网固件（中）](https://www.secpulse.com/archives/188250.html)
+* [物联网终端安全入门与实践之玩转物联网固件（下）DIY篇](https://www.secpulse.com/archives/197408.html)
+* [摄像头漏洞挖掘入门教程（固件篇](https://blog.knownsec.com/index.html%3Fp=4284.html)
 
 ## Vulnerability Writeup
 
@@ -45,6 +51,7 @@
 * [CVE-2023-27997-FortiGate-SSLVPN-HeapOverflow](https://bestwing.me/CVE-2023-27997-FortiGate-SSLVPN-Heap-Overflow.html)
 * [Breaking Fortinet Firmware Encryption](https://bishopfox.com/blog/breaking-fortinet-firmware-encryption)
 * [Building an Exploit for FortiGate Vulnerability CVE-2023-27997](https://bishopfox.com/blog/building-exploit-fortigate-vulnerability-cve-2023-27997)
+* [Two Bytes is Plenty: FortiGate RCE with CVE-2024-21762](https://www.assetnote.io/resources/research/two-bytes-is-plenty-fortigate-rce-with-cve-2024-21762)
 
 ### Pulse Secure
 
@@ -94,6 +101,7 @@
 * [Our Pwn2Own journey against time and randomness (part 1)](https://blog.quarkslab.com/our-pwn2own-journey-against-time-and-randomness-part-1.html)
 * [Our Pwn2Own journey against time and randomness (part 2)](https://blog.quarkslab.com/our-pwn2own-journey-against-time-and-randomness-part-2.html)
 * [Pwn2Own Toronto 22: Exploit Netgear Nighthawk RAX30 Routers](https://claroty.com/team82/research/chaining-five-vulnerabilities-to-exploit-netgear-nighthawk-rax30-routers-at-pwn2own-toronto-2022)
+* [NetGear 夜鹰 RAX40V2 设备与固件分析](https://www.anquanke.com/post/id/248900)
 
 ### Zyxel
 
@@ -144,6 +152,7 @@
 * [D-Link DIR-816 A2路由器安全研究分享](https://paper.seebug.org/1036/)
 * [Reverse Engineering a D-Link Backdoor](https://lcx.cc/post/3950/)
 * [D-Link DAP-X1860: Remote Command Injection](https://www.redteam-pentesting.de/en/advisories/rt-sa-2023-006/-d-link-dap-x1860-remote-command-injection)
+* [SSD ADVISORY – D-LINK DIR-X4860 SECURITY VULNERABILITIES](https://ssd-disclosure.com/ssd-advisory-d-link-dir-x4860-security-vulnerabilities/)
 
 ### XiaoMI
 
@@ -165,6 +174,7 @@
 * [Custom Firmware for the Xiaomi AX3600 Wireless Router](https://irq5.io/2020/08/10/custom-firmware-for-the-xiaomi-ax3600-wireless-router/)
 * [物联网设备消息总线机制的使用及安全问题](https://gtrboy.github.io/posts/bus/)
 * [Rooting Xiaomi WiFi Routers](https://blog.thalium.re/posts/rooting-xiaomi-wifi-routers/)
+* [IoT Reverse Engineering](https://cnbj1.fds.api.xiaomi.com/src/xiaomi-IoT-security-conference/IoT%20Reverse%20Engineering%20-%20Dennis%20Giese%EF%BC%88%E4%B8%AD%E6%96%87%E7%89%88%EF%BC%89.pdf)
 
 ### ConnectedIO
 
@@ -230,6 +240,7 @@
 ### Other
 
 * [Tetsuji: Remote Code Execution on a GameBoy Colour 22 Years Later](https://xcellerator.github.io/posts/tetsuji/)
+* [Your not so "Home Office" - SOHO Hacking at Pwn2Own](https://conference.hitb.org/files/hitbsecconf2023ams/materials/D1T1%20-%20Your%20Not%20So%20Home%20Office%20-%20Soho%20Hacking%20at%20Pwn2Own%20-%20McCaulay%20Hudson%20&%20Alex%20Plaskett.pdf)
 
 ## Exploitation Method
 
@@ -287,6 +298,7 @@
 * [Intro to Embedded RE: UART Discovery and Firmware Extraction via UBoot](https://voidstarsec.com/blog/uart-uboot-and-usb)
 * [Breaking Fortinet Firmware Encryption](https://bishopfox.com/blog/breaking-fortinet-firmware-encryption)
 * [Dumping Flash Content](https://drmnsamoliu.github.io/flashdump.html)
+* [智能设备漏洞挖掘之固件提取](https://functfan.gitbook.io/gewuzz/lou-dong-wa-jue-1/lou-dong-wa-jue/wu-lian-wang-lou-dong-wa-jue-ji-shu/zhi-neng-she-bei-lou-dong-wa-jue-zhi-gu-jian-ti-qu)
 
 ## Specification
 
