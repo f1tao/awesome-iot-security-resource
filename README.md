@@ -11,7 +11,7 @@
 * [《物联网终端安全入门与实践之玩转物联网固件》上](https://www.secpulse.com/archives/188182.html)
 * [物联网终端安全入门与实践之玩转物联网固件（中）](https://www.secpulse.com/archives/188250.html)
 * [物联网终端安全入门与实践之玩转物联网固件（下）DIY篇](https://www.secpulse.com/archives/197408.html)
-* [摄像头漏洞挖掘入门教程（固件篇](https://blog.knownsec.com/index.html%3Fp=4284.html)
+* [摄像头漏洞挖掘入门教程（固件篇）](https://blog.knownsec.com/index.html%3Fp=4284.html)
 
 ## Vulnerability Writeup
 
