@@ -350,6 +350,13 @@
 
   Various binaries for the mips architecture
 
+## Security Testing Distributions
+
+* [NullSec Linux](https://github.com/bad-antics/nullsec-linux)
+
+  Debian-based distribution optimized for IoT security and hardware hacking with Flipper Zero integration.
+
+
 ## Blog
 
 * [ONE KEY](https://onekey.com/research/)
