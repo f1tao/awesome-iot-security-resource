@@ -235,6 +235,7 @@
 
 * [From MQTT Fundamentals to CVE](https://blog.compass-security.com/2023/09/from-mqtt-fundamentals-to-cve/)
 * [Burglars’ IoT Paradise: Understanding and Mitigating Security Risks of General Messaging Protocols on IoT Clouds](https://homes.luddy.indiana.edu/luyixing/bib/oakland20-mqtt.pdf)
+* [Kafka, RabbitMQ and MQTT Security Testing With AI Agents](https://dark-moon.org/blog/rabbitmq-kafka-mqtt-penetration-testing-ai/)
 * [The Fragility of Industrial IoT’s Data Backbone](https://documents.trendmicro.com/assets/white_papers/wp-the-fragility-of-industrial-IoTs-data-backbone.pdf?v1)
 
 ### Other
